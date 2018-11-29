@@ -20,6 +20,9 @@ public class c1 {
 		System.out.println(res);
 		
 		System.out.println("program from branch1");
+		System.out.println("program from branch2");
+		
+		
 	}
 
 }
